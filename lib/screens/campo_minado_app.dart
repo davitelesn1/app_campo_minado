@@ -3,7 +3,7 @@ import 'package:app_campo_minado/models/campo.dart';
 import 'package:app_campo_minado/models/explosao_exception.dart';
 import 'package:app_campo_minado/models/tabuleiro.dart';
 import 'package:flutter/material.dart';
-import '../components/resultado.widget.dart';
+import '../components/resultado_widget.dart';
 
 class CampoMinadoApp extends StatefulWidget {
   const CampoMinadoApp({super.key});
@@ -72,6 +72,7 @@ class _CampoMinadoAppState extends State<CampoMinadoApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: ResultadoWidget(
           // Pass null while jogo em andamento para manter emoji amarelo
