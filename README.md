@@ -3,7 +3,7 @@
 Jogo de Campo Minado desenvolvido em Flutter, com abertura em cascata, marcação de bandeiras e detecção automática de vitória e derrota.
 A interface é totalmente responsiva e utiliza um emoji no topo para indicar o estado atual da partida.
 
-#📱 Demonstração
+# 📱 Demonstração
 <p align="center">
 	<img src="assets/demo/demo.png" alt="Chat App preview" width="300"/>
 </p>
