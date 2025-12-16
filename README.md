@@ -5,7 +5,7 @@ A interface é totalmente responsiva e utiliza um emoji no topo para indicar o e
 
 #📱 Demonstração
 <p align="center">
-	<img src="assets/demo/demo.jpg" alt="Chat App preview" width="300"/>
+	<img src="assets/demo/demo.png" alt="Chat App preview" width="300"/>
 </p>
 
 
